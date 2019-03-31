@@ -11,4 +11,4 @@
 创建项目地址：https://start.spring.io/
 
 设置如下：
-![创建spring boot Javaweb 项目](https://raw.github.com/qpli/spring-boot-mail-foundation/master/mail/readme/1.jpg)
+![创建spring boot Javaweb 项目](https://raw.github.com/qpli/spring-boot-mail-foundation/master/mail/readme/1.png)
